@@ -3,4 +3,3 @@ green apples
 bananas
 cherries
 dates
-figs
